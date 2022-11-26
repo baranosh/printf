@@ -191,6 +191,8 @@ alex@ubuntu:~/c/printf$
 >   - You don’t have to handle field width
 >   - You don’t have to handle precision
 >   - You don’t have to handle the length modifiers
+>   ![image](https://user-images.githubusercontent.com/108129721/204106730-dd894f84-d4e7-456b-a3cc-82632202cac3.png)
+
 
 ### 1. Education is when you read the fine print. Experience is what you get if you don't
 >Handle the following conversion specifiers:

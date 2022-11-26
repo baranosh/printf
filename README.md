@@ -174,7 +174,7 @@ alex@ubuntu:~/c/printf$
    - You are not allowed to publish any content of this project.
    - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-### TASK 0
+### 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format.
 
    - Prototype: int `_printf(const char *format, ...);`
@@ -190,7 +190,7 @@ Write a function that produces output according to a format.
    - You don’t have to handle precision
    - You don’t have to handle the length modifiers
 
-### TASK 1
+### 1. Education is when you read the fine print. Experience is what you get if you don't
 Handle the following conversion specifiers:
 
    - `d`
@@ -200,7 +200,7 @@ Handle the following conversion specifiers:
    - You don’t have to handle precision
    - You don’t have to handle the length modifiers
 
-### TASK 2
+### 2. With a face like mine, I do better in print
 Handle the following custom conversion specifiers:
 
    - `b`: the unsigned int argument is converted to binary
@@ -225,7 +225,7 @@ alex@ubuntu:~/c/printf$ ./a.out
 alex@ubuntu:~/c/printf$
 ```
 
-### TASK 3
+### 3. What one has not experienced, one will never understand in print
 Handle the following conversion specifiers:
 
    - `u`
@@ -237,4 +237,4 @@ Handle the following conversion specifiers:
    - You don’t have to handle precision
    - You don’t have to handle the length modifiers
 
-### TASK 4
+### 4. Nothing in fine print is ever good news

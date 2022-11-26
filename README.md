@@ -15,18 +15,13 @@
 ----
  
 **In a nutshell…**
-
-   **- Contribution: 100.0%**
-   **- Auto QA review: 50.5/101 mandatory & 560.5/1123 optional**
-   **- Altogether:  74.96%**
-   
-        - Mandatory: 50.0%
-        
-        - Optional: 49.91%
-        
-        - Contribution: 100.0%
-        
-        - Calculation:  100.0% * (50.0% + (50.0% * 49.91%) )  == 74.96% 
+###   - Contribution: 100.0%
+###   - Auto QA review: 50.5/101 mandatory & 560.5/1123 optional
+###   - Altogether:  74.96%
+          - Mandatory: 50.0%
+          - Optional: 49.91%
+          - Contribution: 100.0%
+          - Calculation:  100.0% * (50.0% + (50.0% * 49.91%) )  == 74.96% 
            
 
 Concepts

@@ -32,7 +32,7 @@ _For this project, we expect you to look at these concepts:_
    - [Flowcharts][https://alx-intranet.hbtn.io/concepts/130]
    - [Technical Writing][https://alx-intranet.hbtn.io/concepts/225]
 
-```
+
 ### Background Context
 Write your own `printf` function.
 ![printf](https://user-images.githubusercontent.com/108129721/204089939-39bfb74c-ce53-4f95-8876-5553dfbd4649.png)
@@ -78,14 +78,15 @@ Write your own `printf` function.
 
 #### Compilation
    - Your code will be compiled this way:
+````
 ```
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
 ```
+````
    - As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all  your tests files including main functions)
    - Our main files will include your main header file (main.h): #include main.h
    - You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf. Example of test file that you could use:
    
-```
 ```example
 alex@ubuntu:~/c/printf$ cat main.c 
 #include <limits.h>
@@ -159,7 +160,6 @@ Len:[12]
 Unknown:[%r]
 Unknown:[%r]
 alex@ubuntu:~/c/printf$
-```
 ```
    - We strongly encourage you to work all together on a set of tests
    - If the task does not specify what to do with an edge case, do the same as `printf`

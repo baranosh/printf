@@ -15,6 +15,7 @@
 ----
  
 **In a nutshell…**
+
    **- Contribution: 100.0%**
    **- Auto QA review: 50.5/101 mandatory & 560.5/1123 optional**
    **- Altogether:  74.96%**

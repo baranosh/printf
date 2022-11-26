@@ -1,6 +1,6 @@
 #     0x11. C - PRINTF
 
-###  `C` `Group project`
+##  `C` `Group project`
 
 ----
  By: Julien Barbier, co-founder & CEO
@@ -13,15 +13,6 @@
 ----
  An auto review will be launched at the deadline
 ----
- 
-### **In a nutshell…**
-   - **Contribution**: 100.0%
-   - **Auto QA review**: 50.5/101 mandatory & 560.5/1123 optional
-   - **Altogether**:  74.96%
-      - Mandatory: 50.0%
-      - Optional: 49.91%
-      - Contribution: 100.0%
-      - Calculation:  100.0% * (50.0% + (50.0% * 49.91%) )  == 74.96%
            
 
 #### Concepts
@@ -191,8 +182,6 @@ alex@ubuntu:~/c/printf$
 >   - You don’t have to handle field width
 >   - You don’t have to handle precision
 >   - You don’t have to handle the length modifiers
->   ![image](https://user-images.githubusercontent.com/108129721/204106730-dd894f84-d4e7-456b-a3cc-82632202cac3.png)
-
 
 ### 1. Education is when you read the fine print. Experience is what you get if you don't
 >Handle the following conversion specifiers:
